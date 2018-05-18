@@ -1,16 +1,16 @@
 # Logistique
 Comment on a fait et de quoi on a eu besoin
 
-## Où va-t-on le placer ?  
+## Le placement ?  
 Le disposer dans un lieu circulant, facilement accessible, qu'on puisse tourner autour, l'utiliser et le regarder en même temps.
 L'idée est que l'emplacement se mette au service de l'appropriation des participant·e·s, qu'il sonne comme une invitation.
 
-## Comment on l'a fabriqué ?  
+## La fabrication ?  
 1- on a démonter les lattes des pallettes, sauf la première  
 2- on a fixé les 2 pallettes ensemble en les reliant par l'arrière (un petite latte clouée)  
 3- on a recloué les lattes pour qu'il n'y ait pas de trous  
 
-## le matériel qu'on a utilisé : 
+## Le matériel 
 **Pour la conception**
 - 4 palettes (2 pour le support et 2 en plus pour les lattes supplémentaires)  
 - 10 gros clous  
