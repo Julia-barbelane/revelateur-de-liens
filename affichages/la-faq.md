@@ -1,6 +1,6 @@
 # Foire aux questions
 
-**Quels réglages dois-je faire ?**
+**Quels réglages dois-je faire ?**  
 L'appareil t'indique le réglage de luminosité nécessaire au niveau de la bague de l'objectif.  
 Attention à ne pas mettre tes doigts devant le capteur de luminosité.  
 
