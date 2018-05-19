@@ -19,7 +19,7 @@ L'idée est que l'emplacement se mette au service de l'appropriation des partici
 **Pour l'utilisation le jour J**
 - 2 pelotes de laine de couleurs différentes  
 - 2 appareils photos (au cas où un tombe en panne)  
-- Recharge de polaroïde (150 - à ajuster en fonction du nombre de participant·e·s)  
+- Recharge de polaroïd (150 - à ajuster en fonction du nombre de participant·e·s)  
 - 150 clous de taille moyenne (5cm de haut minimum) - à ajuster en fonction du nombre de participant·e·s   
 - 10 gros clous (10cm de haut minimum)  
 - 1 marteau  
