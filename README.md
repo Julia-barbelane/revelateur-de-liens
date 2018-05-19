@@ -1,11 +1,12 @@
 # Le révélateur de liens
-Une oeuvre éphémère, collective et contributive pour révéler les liens entre les participant·e·s d'un évènements. 
+**Une oeuvre éphémère, collective et contributive pour révéler les liens entre les participant·e·s d'un évènement.** 
 
 ## Contexte 
-L'idée est née pour l'évènement de SudWeb. On n'avait plus envie de goodies. Alors on s'est demandé, qu'est-ce qu'on pourrait inventer qui crée du souvenir et de la valeur en même temps ? 
+L'idée est née à l'occasion de l'organisation de l'évènement SudWeb. On en avait marre des goodies et on avait envie de proposer autre chose. Alors on s'est demandé : "*Qu'est-ce qu'on pourrait inventer qui crée du souvenir et de la valeur en même temps ?* 
 
-## le principe
-Créer un espace physique dans lequel les pariticipant·e·s peuvent mettre leur photo et la relier à celles d'autres participant·e·s via des ficelles colorées. A la fin de l'évènement, on a la materialisation des liens entre les personnes présentes.
+## Le principe
+Créer un espace physique ayant la forme d'un grand panneau, sur lequel les pariticipant·e·s clouent leur photo pour la relier à celles des autres participant·e·s avec lesquels ils intéragissent via des ficelles colorées.   
+Résultat : les liens créés entre les personnes présentes sont matérialisés.
 
 ## Ressources
 [La logistique - comment on a fait et de quoi on a eu besoin](https://github.com/Julia-barbelane/revelateur-de-liens/blob/master/logistique.md)
